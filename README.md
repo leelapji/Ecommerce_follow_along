@@ -14,4 +14,20 @@ In the next milestone, we will:
 - Understand **server-client interaction**.
 - Create a **basic Node.js and Express server**.
 
-Stay tuned for more updates! 🚀
+## Milestone 2: Project Setup and Login Page
+
+In this milestone, we:
+
+- Organized the project into `frontend` and `backend` directories.
+- Initialized a **React application** for the frontend.
+- Installed and configured **Tailwind CSS** for styling.
+- Set up a **Node.js server** with Express.
+- Created the **Login Page** with form validation.
+
+### Next Steps:
+- Implement authentication functionality.
+- Connect the frontend with the backend.
+- Build a product listing page.
+
+Stay tuned for Milestone 3! 🚀
+
