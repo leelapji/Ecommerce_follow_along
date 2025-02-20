@@ -31,3 +31,14 @@ In this milestone, we:
 
 Stay tuned for Milestone 3! 🚀
 
+# User Authentication Backend (Milestone 7)
+
+This project implements a secure login system with encrypted password verification.
+
+## Features:
+- Secure password hashing with bcrypt
+- JWT-based authentication
+- API route for user login
+
+## Endpoints:
+- `POST /api/auth/login` → Validates user credentials and returns a token.
