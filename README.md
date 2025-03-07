@@ -31,6 +31,22 @@ In this milestone, we:
 
 Stay tuned for Milestone 3! 🚀
 
+
+## Milestone 3: Project Setup for Backend  
+
+### Achievements:
+- Structured backend with Express.js.
+- Connected MongoDB using Mongoose.
+- Implemented user registration API.
+- Added error handling middleware.
+
+### How to Run:
+1. Navigate to `backend/` and install dependencies:  
+2. Create a `.env` file with MongoDB URI.
+3. Start the server:  
+4. Test the `/api/users/register` endpoint using Postman.
+
+<!-- 
 # User Authentication Backend (Milestone 7)
 
 This project implements a secure login system with encrypted password verification.
@@ -41,4 +57,4 @@ This project implements a secure login system with encrypted password verificati
 - API route for user login
 
 ## Endpoints:
-- `POST /api/auth/login` → Validates user credentials and returns a token.
+- `POST /api/auth/login` → Validates user credentials and returns a token. -->
